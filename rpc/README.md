@@ -6,6 +6,10 @@
 
 发布日志参见 `RELEASE.md` 文档
 
+说明:
+```
+clone from http://git.oschina.net/huangyong/rpc
+```
 ## 定义 RPC 接口
 
 > 参见 rpc-sample-api 模块
